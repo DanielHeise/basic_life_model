@@ -2,6 +2,8 @@
 John H. Conway (Scientific American, October 1970, p. 120) invented a game
 called _Life_ to model the process of birth, survival, and death.
 
+![](images/model-sim.gif)
+
 | Rule          | Description   |
 | ------------- | ------------- |
 | **birth**     | an organism is born into an empty cell that has exactly three living `neighbor`s  |
