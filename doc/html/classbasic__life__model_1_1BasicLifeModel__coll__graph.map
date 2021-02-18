@@ -1,0 +1,4 @@
+<map id="basic_life_model::BasicLifeModel" name="basic_life_model::BasicLifeModel">
+<area shape="rect" id="node1" title="This class manages the aspects of the Basic Life Model." alt="" coords="5,95,204,136"/>
+<area shape="rect" id="node2" href="$classgrid_1_1Grid.html" title="This class manages a collection of cells." alt="" coords="63,5,146,32"/>
+</map>

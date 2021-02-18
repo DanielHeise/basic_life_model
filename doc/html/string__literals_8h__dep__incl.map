@@ -1,0 +1,5 @@
+<map id="include/string_literals.h" name="include/string_literals.h">
+<area shape="rect" id="node1" title="Fixed string literals meant for user feedback, log entries, etc." alt="" coords="85,5,259,32"/>
+<area shape="rect" id="node2" href="$BasicLifeModel_8cpp.html" title="Implements the model&#39;s rules and general behavior." alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Program for running simulations on the (basic) Life Model." alt="" coords="201,80,306,107"/>
+</map>

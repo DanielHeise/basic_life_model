@@ -1,0 +1,5 @@
+<map id="include/BasicLifeModel.h" name="include/BasicLifeModel.h">
+<area shape="rect" id="node1" title="Interface to the model&#39;s rules and general behavior." alt="" coords="80,5,264,32"/>
+<area shape="rect" id="node2" href="$BasicLifeModel_8cpp.html" title="Implements the model&#39;s rules and general behavior." alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Program for running simulations on the (basic) Life Model." alt="" coords="201,80,306,107"/>
+</map>
