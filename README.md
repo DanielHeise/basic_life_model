@@ -39,11 +39,11 @@ called _Life_ to model the process of birth, survival, and death.
 
 ```sh
 basic_life_model/
-├── bin/			(make created; executable)
-├── obj/			(make created; .o build artifacts)
-├── include/		(user created; .h files)
-├── lib/			(user created; .a/.so files)
-├── src/			(user created; .cpp files)
+├── bin/          (make created; executable)
+├── obj/          (make created; .o build artifacts)
+├── include/      (user created; .h files)
+├── lib/          (user created; .a/.so files)
+├── src/          (user created; .cpp files)
 └── Makefile
 ```
 
